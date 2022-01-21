@@ -8,4 +8,4 @@ let info = {
     isalive: true,
 
 }
-console.log(info)
+console.log(info.age)
